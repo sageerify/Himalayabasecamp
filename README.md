@@ -1,8 +1,8 @@
 # 🏔️ HimalayaBasecamp
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/HimalayaBasecamp)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/HimalayaBasecamp)
+![GitHub last commit](https://img.shields.io/github/last-commit/sageerify/HimalayaBasecamp)
+![GitHub repo size](https://img.shields.io/github/repo-size/sageerify/HimalayaBasecamp)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![React](https://img.shields.io/badge/Powered%20by-React-blue?logo=react)
 
@@ -66,6 +66,7 @@ VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 ---
 
 Let me know if you want this exported as a `.md` file or need help setting up your Vercel/Netlify deployment next, Boss.
+
 
 
 
