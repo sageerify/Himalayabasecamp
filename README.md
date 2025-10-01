@@ -48,7 +48,7 @@
 
 ## 📂 Project Structure
 
----
+----
 
 ## 🧪 Local Setup
 
@@ -67,6 +67,7 @@ VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 ---
 
 Let me know if you want this exported as a `.md` file or need help setting up your Vercel/Netlify deployment next, Boss.
+
 
 
 
