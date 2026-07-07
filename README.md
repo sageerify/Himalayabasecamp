@@ -13,7 +13,7 @@
   
 ## 🌐> Live Preview 
    
-🔗 [View Live Site](https://himalayabasecamp.vercel.app)
+🔗 [View Live Site](https://himalayabasecamp.vercel.app) 
 
 ----
 
