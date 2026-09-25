@@ -19,7 +19,7 @@
 
 ## 🚀 Features
 
-- ⚡ Super-fast with **Vite** 
+- ⚡ Super-fast with **Vite**  
 - 🎨 Sleek UI with **Tailwind CSS**
 - 🔄 Smooth routing with **React Router** 
 - 📧 Functional contact form with **EmailJS**
