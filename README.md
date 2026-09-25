@@ -24,7 +24,7 @@
 - 🔄 Smooth routing with **React Router** 
 - 📧 Functional contact form with **EmailJS**
 - 🗺️ Google Maps integration for real location visuals
-- 🌓 Light/Dark Mode toggle
+- 🌓 Light/Dark Mode toggle 
 - 🧩 Component-based scalable architecture 
 - 📱 Mobile-first responsive design
 - ✨ Animations with **Framer Motion**
