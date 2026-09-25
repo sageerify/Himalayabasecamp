@@ -21,7 +21,7 @@
 
 - ⚡ Super-fast with **Vite**
 - 🎨 Sleek UI with **Tailwind CSS**
-- 🔄 Smooth routing with **React Router**
+- 🔄 Smooth routing with **React Router** 
 - 📧 Functional contact form with **EmailJS**
 - 🗺️ Google Maps integration for real location visuals
 - 🌓 Light/Dark Mode toggle
