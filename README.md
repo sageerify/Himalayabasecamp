@@ -2,7 +2,7 @@
 ---
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/sageerify/HimalayaBasecamp) 
-![GitHub repo size](https://img.shields.io/github/repo-size/sageerify/HimalayaBasecamp)
+![GitHub repo size](https://img.shields.io/github/repo-size/sageerify/HimalayaBasecamp) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![React](https://img.shields.io/badge/Powered%20by-React-blue?logo=react)
 ![Github](https://img.shields.io/badge/Powered%20by-github-blue?logo=react)     
