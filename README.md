@@ -17,7 +17,7 @@
 
 ----  
 
-## 🚀 Features
+## 🚀 Features 
 
 - ⚡ Super-fast with **Vite**  
 - 🎨 Sleek UI with **Tailwind CSS**
