@@ -9,8 +9,8 @@
 
 > A modern, fully responsive Himalayan travel and adventure platform built with React + Tailwind + Vite. Explore, dream, and discover your next basecamp adventure.
 
------
-   
+----
+
 ## 🌐> Live Preview    
        
 🔗 [View Live Site](https://himalayabasecamp.vercel.app)    
